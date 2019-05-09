@@ -1,0 +1,322 @@
+{
+    ".com": {
+        "week_1": {
+            "H": "106",
+            "HR": "22",
+            "R": "59",
+            "opponent": "BYE"
+        },
+        "week_2": {
+            "H": "58",
+            "HR": "8",
+            "R": "31",
+            "opponent": "FSU!"
+        },
+        "week_3": {
+            "H": "75",
+            "HR": "15",
+            "R": "44",
+            "opponent": "C187"
+        },
+        "week_4": {
+            "H": "77",
+            "HR": "19",
+            "R": "51",
+            "opponent": "DRDN"
+        },
+        "week_5": {
+            "H": "87",
+            "HR": "13",
+            "R": "44",
+            "opponent": "CAP"
+        }
+    },
+    "BRYZ": {
+        "week_1": {
+            "H": "112",
+            "HR": "21",
+            "R": "69",
+            "opponent": "PGGS"
+        },
+        "week_2": {
+            "H": "73",
+            "HR": "13",
+            "R": "42",
+            "opponent": "OD"
+        },
+        "week_3": {
+            "H": "64",
+            "HR": "17",
+            "R": "40",
+            "opponent": "Jake"
+        },
+        "week_4": {
+            "H": "72",
+            "HR": "15",
+            "R": "51",
+            "opponent": "BYE"
+        },
+        "week_5": {
+            "H": "67",
+            "HR": "9",
+            "R": "39",
+            "opponent": "FSU!"
+        }
+    },
+    "BYE": {
+        "week_1": {
+            "H": "96",
+            "HR": "12",
+            "R": "43",
+            "opponent": ".com"
+        },
+        "week_2": {
+            "H": "76",
+            "HR": "13",
+            "R": "49",
+            "opponent": "DRDN"
+        },
+        "week_3": {
+            "H": "60",
+            "HR": "9",
+            "R": "39",
+            "opponent": "CAP"
+        },
+        "week_4": {
+            "H": "72",
+            "HR": "13",
+            "R": "44",
+            "opponent": "BRYZ"
+        },
+        "week_5": {
+            "H": "73",
+            "HR": "14",
+            "R": "40",
+            "opponent": "PGGS"
+        }
+    },
+    "C187": {
+        "week_1": {
+            "H": "121",
+            "HR": "15",
+            "R": "72",
+            "opponent": "FSU!"
+        },
+        "week_2": {
+            "H": "70",
+            "HR": "6",
+            "R": "39",
+            "opponent": "PGGS"
+        },
+        "week_3": {
+            "H": "74",
+            "HR": "15",
+            "R": "39",
+            "opponent": ".com"
+        },
+        "week_4": {
+            "H": "63",
+            "HR": "10",
+            "R": "38",
+            "opponent": "OD"
+        },
+        "week_5": {
+            "H": "68",
+            "HR": "16",
+            "R": "38",
+            "opponent": "DRDN"
+        }
+    },
+    "CAP": {
+        "week_1": {
+            "H": "110",
+            "HR": "17",
+            "R": "76",
+            "opponent": "OD"
+        },
+        "week_2": {
+            "H": "75",
+            "HR": "10",
+            "R": "43",
+            "opponent": "Jake"
+        },
+        "week_3": {
+            "H": "65",
+            "HR": "9",
+            "R": "41",
+            "opponent": "BYE"
+        },
+        "week_4": {
+            "H": "75",
+            "HR": "13",
+            "R": "38",
+            "opponent": "FSU!"
+        },
+        "week_5": {
+            "H": "60",
+            "HR": "10",
+            "R": "29",
+            "opponent": ".com"
+        }
+    },
+    "DRDN": {
+        "week_1": {
+            "H": "101",
+            "HR": "18",
+            "R": "67",
+            "opponent": "Jake"
+        },
+        "week_2": {
+            "H": "65",
+            "HR": "14",
+            "R": "38",
+            "opponent": "BYE"
+        },
+        "week_3": {
+            "H": "62",
+            "HR": "6",
+            "R": "38",
+            "opponent": "FSU!"
+        },
+        "week_4": {
+            "H": "59",
+            "HR": "12",
+            "R": "39",
+            "opponent": ".com"
+        },
+        "week_5": {
+            "H": "63",
+            "HR": "7",
+            "R": "33",
+            "opponent": "C187"
+        }
+    },
+    "FSU!": {
+        "week_1": {
+            "H": "105",
+            "HR": "21",
+            "R": "70",
+            "opponent": "C187"
+        },
+        "week_2": {
+            "H": "73",
+            "HR": "14",
+            "R": "45",
+            "opponent": ".com"
+        },
+        "week_3": {
+            "H": "85",
+            "HR": "12",
+            "R": "39",
+            "opponent": "DRDN"
+        },
+        "week_4": {
+            "H": "68",
+            "HR": "7",
+            "R": "34",
+            "opponent": "CAP"
+        },
+        "week_5": {
+            "H": "87",
+            "HR": "14",
+            "R": "54",
+            "opponent": "BRYZ"
+        }
+    },
+    "Jake": {
+        "week_1": {
+            "H": "81",
+            "HR": "9",
+            "R": "47",
+            "opponent": "DRDN"
+        },
+        "week_2": {
+            "H": "71",
+            "HR": "15",
+            "R": "46",
+            "opponent": "CAP"
+        },
+        "week_3": {
+            "H": "79",
+            "HR": "17",
+            "R": "52",
+            "opponent": "BRYZ"
+        },
+        "week_4": {
+            "H": "66",
+            "HR": "7",
+            "R": "37",
+            "opponent": "PGGS"
+        },
+        "week_5": {
+            "H": "69",
+            "HR": "9",
+            "R": "39",
+            "opponent": "OD"
+        }
+    },
+    "OD": {
+        "week_1": {
+            "H": "103",
+            "HR": "14",
+            "R": "50",
+            "opponent": "CAP"
+        },
+        "week_2": {
+            "H": "79",
+            "HR": "15",
+            "R": "41",
+            "opponent": "BRYZ"
+        },
+        "week_3": {
+            "H": "63",
+            "HR": "11",
+            "R": "32",
+            "opponent": "PGGS"
+        },
+        "week_4": {
+            "H": "85",
+            "HR": "17",
+            "R": "48",
+            "opponent": "C187"
+        },
+        "week_5": {
+            "H": "70",
+            "HR": "11",
+            "R": "49",
+            "opponent": "Jake"
+        }
+    },
+    "PGGS": {
+        "week_1": {
+            "H": "93",
+            "HR": "22",
+            "R": "48",
+            "opponent": "BRYZ"
+        },
+        "week_2": {
+            "H": "81",
+            "HR": "20",
+            "R": "50",
+            "opponent": "C187"
+        },
+        "week_3": {
+            "H": "92",
+            "HR": "22",
+            "R": "51",
+            "opponent": "OD"
+        },
+        "week_4": {
+            "H": "82",
+            "HR": "13",
+            "R": "51",
+            "opponent": "Jake"
+        },
+        "week_5": {
+            "H": "73",
+            "HR": "10",
+            "R": "45",
+            "opponent": "BYE"
+        }
+    }
+}
