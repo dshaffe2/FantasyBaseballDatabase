@@ -2,5 +2,6 @@
   "url": "http://www.espn.com/login",
   "email": "test",
   "password": "test",
-  "team": "test"
+  "team": "test",
+  "mongo_uri": "mongodb://<USERNAME>:<PASSWORD>@republicfantasybaseball-shard-00-00-qh9ty.mongodb.net:27017,republicfantasybaseball-shard-00-01-qh9ty.mongodb.net:27017,republicfantasybaseball-shard-00-02-qh9ty.mongodb.net:27017/test?ssl=true&replicaSet=RepublicFantasyBaseball-shard-0&authSource=admin&retryWrites=true"
 }
